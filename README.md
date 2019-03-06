@@ -1,3 +1,5 @@
 # HW3
-collocates.png
-rarewords.png
+![task6](collocates.png)
+![task4](rarewords.png)
+![task3](stopwords.png)
+
