@@ -1,3 +1,3 @@
 # HW3
-Коллокаты.png
-Снимок экрана 2019-02-27 в 16.15.43.png
+collocates.png
+rarewords.png
