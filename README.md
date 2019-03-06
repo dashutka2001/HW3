@@ -1,5 +1,8 @@
 # HW3
-![task6](Collocates.png)
-![task4](rarewords.png)
-![task3](stopwords.png)
+задание 6
+![alt-text](Collocates.png)
+задание 4
+![alt-text](rarewords.png)
+задание 3
+![alt-text](stopwords.png)
 
